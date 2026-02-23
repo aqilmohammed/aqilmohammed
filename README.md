@@ -24,7 +24,7 @@ Data Scientist with a background in Mathematics and Statistics.
 
 ## 📊 Featured Projects
 
-### 📈 Time series clustering and Analysis
+### 📈 [Time series clustering and Analysis](https://github.com/aqilmohammed/Pain-project)
 Designed and executed clustering models to group subjects based on temporal and intensity-based profiles.
 https://github.com/aqilmohammed/Pain-project
 
