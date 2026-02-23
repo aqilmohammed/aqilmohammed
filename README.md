@@ -7,7 +7,6 @@ Data Scientist with a background in Mathematics and Statistics.
 ## 🔎 About Me
 - Strong foundation in statistics, machine learning, and analytical thinking
 - Experience working with structured and unstructured data
-- Interested in building scalable data products and predictive systems
 - Passionate about learning, optimisation, and continuous improvement
 
 ---
@@ -15,7 +14,7 @@ Data Scientist with a background in Mathematics and Statistics.
 ## 🛠 Technical Skills
 
 **Languages & Tools**
-- Python (pandas, numpy, scikit-learn, matplotlib)
+- Python, R
 - SQL
 - Tableau
 - Microsoft Azure, AWS
@@ -27,6 +26,7 @@ Data Scientist with a background in Mathematics and Statistics.
 
 ### 📈 Time series clustering and Analysis
 Designed and executed clustering models to group subjects based on temporal and intensity-based profiles.
+https://github.com/aqilmohammed/Pain-project
 
 ---
 
