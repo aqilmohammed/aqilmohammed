@@ -26,8 +26,8 @@ Data Scientist with a background in Mathematics and Statistics.
 
 ### 📈 [Time series clustering and Analysis](https://github.com/aqilmohammed/Pain-project)
 Designed and executed clustering models to group subjects based on temporal and intensity-based profiles.
-/n Compared group-level distributions using statistical analysis to assess underlying behavioural differences.
-/n Produced structured analytical reports interpreting findings for academic and non-technical audiences.
+<br />Compared group-level distributions using statistical analysis to assess underlying behavioural differences.
+<br />Produced structured analytical reports interpreting findings for academic and non-technical audiences.
 
 
 ---
